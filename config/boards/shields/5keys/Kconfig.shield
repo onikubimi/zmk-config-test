@@ -1,0 +1,2 @@
+config SHIELD_5KEYS_V2
+    def_bool $(shields_list_contains,5keys_v2)
