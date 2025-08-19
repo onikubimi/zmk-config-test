@@ -1,0 +1,9 @@
+#include "5keys.dtsi"
+
+&kscan0 {
+        col-gpios
+          = <&pro_micro 9 GPIO_ACTIVE_HIGH> // Col_0 106/D9
+          , <&pro_micro 7 GPIO_ACTIVE_HIGH> // Col_1 011/D7
+          ;
+};
+
