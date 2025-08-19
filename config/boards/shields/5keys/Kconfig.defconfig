@@ -1,0 +1,6 @@
+if SHIELD_5KEYS_V2
+
+config ZMK_KEYBOARD_NAME
+    default "5keys_v2"
+
+endif
