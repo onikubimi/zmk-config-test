@@ -1,0 +1,8 @@
+file_format: "1"
+id: 5keys
+name: 5keys
+type: shield
+url: https://github.com/sayu-hub/zmk-config-test
+requires: [pro_micro]
+features:
+  - keys
